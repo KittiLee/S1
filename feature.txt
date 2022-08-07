@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Stock1 V.2
 Promotion1 V.2
+=======
+Stock1 V3
+Promotion1 V3
+Sale V1
+>>>>>>> Featurn1
