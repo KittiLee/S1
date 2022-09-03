@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git(url: 'https://github.com/KittiLee/S1.git', branch: 'master')
+        git(url: 'https://github.com/KittiLee/S1/tree/main.git', branch: 'master')
       }
     }
 
